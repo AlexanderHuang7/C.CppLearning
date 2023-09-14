@@ -1,0 +1,5 @@
+﻿  main.c
+D:\C_Code\code\StudentSystem\StudentSystem\main.c(155,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C_Code\code\StudentSystem\StudentSystem\main.c(156,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\C_Code\code\StudentSystem\StudentSystem\main.c(159,1): warning C4305: “初始化”: 从“double”到“float”截断
+  StudentSystem.vcxproj -> D:\C_Code\code\StudentSystem\Debug\StudentSystem.exe
