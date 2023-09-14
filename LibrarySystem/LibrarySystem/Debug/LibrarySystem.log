@@ -1,0 +1,5 @@
+﻿  admin_user.c
+D:\C_Code\code\LibrarySystem\LibrarySystem\admin_user.c(227,26): warning C4133: “函数”: 从“Library [100]”到“const char *”的类型不兼容
+D:\C_Code\code\LibrarySystem\LibrarySystem\admin_user.c(423,31): warning C4133: “函数”: 从“Reader [100]”到“const char *”的类型不兼容
+D:\C_Code\code\LibrarySystem\LibrarySystem\admin_user.c(424,27): warning C4133: “函数”: 从“Library [100]”到“const char *”的类型不兼容
+  LibrarySystem.vcxproj -> D:\C_Code\code\LibrarySystem\Debug\LibrarySystem.exe
